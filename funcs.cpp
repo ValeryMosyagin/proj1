@@ -5,5 +5,6 @@ int func()
 //	return 1; // better return 1
 //	return 2; // local change 2
 	return 3;
+	return 4;
 
 }
